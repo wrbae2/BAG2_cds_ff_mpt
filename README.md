@@ -1,4 +1,5 @@
 # BAG2_cds_ff_mpt
+(forked for tisaradc debugging)
 BAG2 setup for cds_ff_mpt (cadence generic PDK for finfet and multi-patterned technology)
 
 ## Installation
