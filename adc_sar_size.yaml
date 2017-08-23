@@ -5,7 +5,7 @@ capdrv:
   space_offset: 0
 dcap2_m: 19
 device_intent: ulvt
-lch: 1.6e-08
+lch: 1.8e-08
 m_dcap2: 19
 num_space_samp: 38
 num_space_sar: 52
