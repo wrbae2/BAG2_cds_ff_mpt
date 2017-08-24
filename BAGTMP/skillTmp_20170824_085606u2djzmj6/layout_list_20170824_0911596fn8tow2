@@ -1,0 +1,183 @@
+#list
+#list
+space_1x
+#list
+#prop_list
+cell
+nmos4_fast_space
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.086000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 0.000000
+#float 0.000000
+#end
+sp_rows
+#float 0.480000
+orient
+R0
+num_rows
+#int 1
+name
+ISPACE0N0
+#end
+#prop_list
+cell
+pmos4_fast_space
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.086000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 0.000000
+#float 0.960000
+#end
+sp_rows
+#float 0.480000
+orient
+MX
+num_rows
+#int 1
+name
+ISPACE0P0
+#end
+#end
+#list
+#prop_list
+bbox
+#list
+#list
+#float 0.000000
+#float -0.048000
+#end
+#list
+#float 0.086000
+#float 0.048000
+#end
+#end
+layer
+#list
+M2
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 0.000000
+#float -0.048000
+#end
+#list
+#float 0.086000
+#float 0.048000
+#end
+#end
+layer
+#list
+M2
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 0.000000
+#float 0.912000
+#end
+#list
+#float 0.086000
+#float 1.008000
+#end
+#end
+layer
+#list
+M2
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 0.000000
+#float 0.912000
+#end
+#list
+#float 0.086000
+#float 1.008000
+#end
+#end
+layer
+#list
+M2
+drawing
+#end
+#end
+#end
+#list
+#end
+#list
+#prop_list
+bbox
+#list
+#list
+#float 0.000000
+#float 0.912000
+#end
+#list
+#float 0.086000
+#float 1.008000
+#end
+#end
+net_name
+VDD
+pin_name
+VDD
+layer
+#list
+M2
+pin
+#end
+label
+VDD
+#end
+#prop_list
+bbox
+#list
+#list
+#float 0.000000
+#float -0.048000
+#end
+#list
+#float 0.086000
+#float 0.048000
+#end
+#end
+net_name
+VSS
+pin_name
+VSS
+layer
+#list
+M2
+pin
+#end
+label
+VSS
+#end
+#end
+#end
+#end

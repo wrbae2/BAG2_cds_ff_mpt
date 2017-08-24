@@ -1,0 +1,2564 @@
+#list
+#list
+dff_strsth_ckb_8x
+#list
+#prop_list
+cell
+tgate_2x
+lib
+cds_ff_mpt_logic_templates
+sp_cols
+#float 0.516000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 10.664000
+#float 0.000000
+#end
+sp_rows
+#float 0.960000
+orient
+R0
+num_rows
+#int 1
+name
+IDFF0LCH1TGAT0
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 13.416000
+#float 0.320000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I22
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 9.116000
+#float 0.320000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I33
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 6.966000
+#float 0.320000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I11
+#end
+#prop_list
+cell
+inv_8x
+lib
+cds_ff_mpt_logic_templates
+sp_cols
+#float 0.860000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 1.720000
+#float 0.000000
+#end
+sp_rows
+#float 0.960000
+orient
+R0
+num_rows
+#int 1
+name
+IDFF0INV9
+#end
+#prop_list
+cell
+nand_2x
+lib
+cds_ff_mpt_logic_templates
+sp_cols
+#float 0.688000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 11.180000
+#float 0.000000
+#end
+sp_rows
+#float 0.960000
+orient
+R0
+num_rows
+#int 1
+name
+IDFF0LCH1ND1
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 11.610000
+#float 0.320000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I23
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 5.934000
+#float 0.192000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I0
+#end
+#prop_list
+cell
+inv_8x
+lib
+cds_ff_mpt_logic_templates
+sp_cols
+#float 0.860000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 0.860000
+#float 0.000000
+#end
+sp_rows
+#float 0.960000
+orient
+R0
+num_rows
+#int 1
+name
+IDFF0INV8
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 4.128000
+#float 0.448000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I40
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 6.192000
+#float 0.192000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I1
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 7.396000
+#float 0.384000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I35
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 2.408000
+#float 0.128000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I30
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 10.492000
+#float 0.256000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I16
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 4.128000
+#float 0.448000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I38
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 6.278000
+#float 0.512000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I9
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 3.268000
+#float 0.384000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I34
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 10.578000
+#float 0.128000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I12
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 5.762000
+#float 0.128000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I2
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 8.256000
+#float 0.256000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I7
+#end
+#prop_list
+cell
+tgate_2x
+lib
+cds_ff_mpt_logic_templates
+sp_cols
+#float 0.516000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 6.020000
+#float 0.000000
+#end
+sp_rows
+#float 0.960000
+orient
+R0
+num_rows
+#int 1
+name
+IDFF0LCH0TGAT0
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 5.848000
+#float 0.256000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I4
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 8.772000
+#float 0.320000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I32
+#end
+#prop_list
+cell
+inv_8x
+lib
+cds_ff_mpt_logic_templates
+sp_cols
+#float 0.860000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 2.580000
+#float 0.000000
+#end
+sp_rows
+#float 0.960000
+orient
+R0
+num_rows
+#int 1
+name
+IDFF0INV10
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 6.364000
+#float 0.256000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I5
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 10.922000
+#float 0.512000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I21
+#end
+#prop_list
+cell
+tinv_8x
+lib
+cds_ff_mpt_logic_templates
+sp_cols
+#float 1.720000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 8.944000
+#float 0.000000
+#end
+sp_rows
+#float 0.960000
+orient
+R0
+num_rows
+#int 1
+name
+IDFF0LCH1TINV0
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 1.892000
+#float 0.192000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I27
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 11.008000
+#float 0.256000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I18
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 8.772000
+#float 0.320000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I10
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 12.040000
+#float 0.384000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I37
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 10.406000
+#float 0.192000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I14
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 7.052000
+#float 0.512000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I8
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 1.892000
+#float 0.192000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I28
+#end
+#prop_list
+cell
+inv_8x
+lib
+cds_ff_mpt_logic_templates
+sp_cols
+#float 0.860000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 0.000000
+#float 0.000000
+#end
+sp_rows
+#float 0.960000
+orient
+R0
+num_rows
+#int 1
+name
+IDFF0INV12
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 10.750000
+#float 0.192000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I15
+#end
+#prop_list
+cell
+tinv_8x
+lib
+cds_ff_mpt_logic_templates
+sp_cols
+#float 1.720000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 4.300000
+#float 0.000000
+#end
+sp_rows
+#float 0.960000
+orient
+R0
+num_rows
+#int 1
+name
+IDFF0LCH0TINV0
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 6.364000
+#float 0.256000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I6
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 10.578000
+#float 0.128000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I31
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 6.622000
+#float 0.448000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I39
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 12.900000
+#float 0.256000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I19
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 11.696000
+#float 0.512000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I20
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 10.406000
+#float 0.192000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I29
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 0.688000
+#float 0.320000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I24
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 1.032000
+#float 0.320000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I25
+#end
+#prop_list
+cell
+nand_2x
+lib
+cds_ff_mpt_logic_templates
+sp_cols
+#float 0.688000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 6.536000
+#float 0.000000
+#end
+sp_rows
+#float 0.960000
+orient
+R0
+num_rows
+#int 1
+name
+IDFF0LCH0ND1
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 3.268000
+#float 0.384000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I36
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 10.836000
+#float 0.128000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I13
+#end
+#prop_list
+cell
+nand_8x
+lib
+cds_ff_mpt_logic_templates
+sp_cols
+#float 1.720000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 7.224000
+#float 0.000000
+#end
+sp_rows
+#float 0.960000
+orient
+R0
+num_rows
+#int 1
+name
+IDFF0LCH0ND0
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 11.008000
+#float 0.256000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I17
+#end
+#prop_list
+cell
+inv_8x
+lib
+cds_ff_mpt_logic_templates
+sp_cols
+#float 0.860000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 3.440000
+#float 0.000000
+#end
+sp_rows
+#float 0.960000
+orient
+R0
+num_rows
+#int 1
+name
+IDFF0INV11
+#end
+#prop_list
+cell
+nand_8x
+lib
+cds_ff_mpt_logic_templates
+sp_cols
+#float 1.720000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 11.868000
+#float 0.000000
+#end
+sp_rows
+#float 0.960000
+orient
+R0
+num_rows
+#int 1
+name
+IDFF0LCH1ND0
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 11.266000
+#float 0.448000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I41
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 1.548000
+#float 0.192000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I26
+#end
+#prop_list
+cell
+via_M3_M4_0
+lib
+cds_ff_mpt_microtemplates_dense
+sp_cols
+#float 0.000000
+num_cols
+#int 1
+view
+layout
+loc
+#list
+#float 6.106000
+#float 0.128000
+#end
+sp_rows
+#float 0.000000
+orient
+R0
+num_rows
+#int 1
+name
+I3
+#end
+#end
+#list
+#prop_list
+bbox
+#list
+#list
+#float 10.406000
+#float 0.176000
+#end
+#list
+#float 10.750000
+#float 0.208000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 6.176000
+#float 0.192000
+#end
+#list
+#float 6.208000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 4.144000
+#float 0.448000
+#end
+#list
+#float 4.112000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 11.696000
+#float 0.528000
+#end
+#list
+#float 10.922000
+#float 0.496000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 12.056000
+#float 0.384000
+#end
+#list
+#float 12.024000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 0.000000
+#float 0.912000
+#end
+#list
+#float 13.588000
+#float 1.008000
+#end
+#end
+layer
+#list
+M2
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 11.282000
+#float 0.448000
+#end
+#list
+#float 11.250000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 10.562000
+#float 0.128000
+#end
+#list
+#float 10.594000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 10.562000
+#float 0.128000
+#end
+#list
+#float 10.594000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 5.918000
+#float 0.192000
+#end
+#list
+#float 5.950000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 1.876000
+#float 0.192000
+#end
+#list
+#float 1.908000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 3.596000
+#float 0.320000
+#end
+#list
+#float 3.628000
+#float 0.640000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 8.772000
+#float 0.336000
+#end
+#list
+#float 6.966000
+#float 0.304000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 13.416000
+#float 0.336000
+#end
+#list
+#float 11.610000
+#float 0.304000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 0.688000
+#float 0.304000
+#end
+#list
+#float 1.032000
+#float 0.336000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 2.408000
+#float 0.112000
+#end
+#list
+#float 10.578000
+#float 0.144000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 5.746000
+#float 0.128000
+#end
+#list
+#float 5.778000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 3.268000
+#float 0.368000
+#end
+#list
+#float 7.396000
+#float 0.400000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 10.406000
+#float 0.176000
+#end
+#list
+#float 10.750000
+#float 0.208000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 10.390000
+#float 0.192000
+#end
+#list
+#float 10.422000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 4.128000
+#float 0.432000
+#end
+#list
+#float 11.266000
+#float 0.464000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 3.284000
+#float 0.384000
+#end
+#list
+#float 3.252000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 10.578000
+#float 0.112000
+#end
+#list
+#float 10.836000
+#float 0.144000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 2.736000
+#float 0.320000
+#end
+#list
+#float 2.768000
+#float 0.640000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 13.416000
+#float 0.336000
+#end
+#list
+#float 11.610000
+#float 0.304000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 0.156000
+#float 0.320000
+#end
+#list
+#float 0.188000
+#float 0.640000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 6.638000
+#float 0.448000
+#end
+#list
+#float 6.606000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 3.284000
+#float 0.384000
+#end
+#list
+#float 3.252000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 10.820000
+#float 0.128000
+#end
+#list
+#float 10.852000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 3.268000
+#float 0.368000
+#end
+#list
+#float 12.040000
+#float 0.400000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 6.364000
+#float 0.240000
+#end
+#list
+#float 8.256000
+#float 0.272000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 1.532000
+#float 0.192000
+#end
+#list
+#float 1.564000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 10.492000
+#float 0.240000
+#end
+#list
+#float 11.008000
+#float 0.272000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 8.772000
+#float 0.304000
+#end
+#list
+#float 9.116000
+#float 0.336000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 10.578000
+#float 0.112000
+#end
+#list
+#float 10.836000
+#float 0.144000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 7.412000
+#float 0.384000
+#end
+#list
+#float 7.380000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 5.934000
+#float 0.176000
+#end
+#list
+#float 6.192000
+#float 0.208000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 5.762000
+#float 0.112000
+#end
+#list
+#float 6.106000
+#float 0.144000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 4.144000
+#float 0.448000
+#end
+#list
+#float 4.112000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 8.772000
+#float 0.336000
+#end
+#list
+#float 6.966000
+#float 0.304000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 13.400000
+#float 0.320000
+#end
+#list
+#float 13.432000
+#float 0.640000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 7.052000
+#float 0.528000
+#end
+#list
+#float 6.278000
+#float 0.496000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 4.128000
+#float 0.432000
+#end
+#list
+#float 6.622000
+#float 0.464000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 5.848000
+#float 0.240000
+#end
+#list
+#float 6.364000
+#float 0.272000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 2.392000
+#float 0.128000
+#end
+#list
+#float 2.424000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 11.008000
+#float 0.240000
+#end
+#list
+#float 12.900000
+#float 0.272000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 6.090000
+#float 0.128000
+#end
+#list
+#float 6.122000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 1.548000
+#float 0.176000
+#end
+#list
+#float 1.892000
+#float 0.208000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 1.892000
+#float 0.176000
+#end
+#list
+#float 10.406000
+#float 0.208000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 10.734000
+#float 0.192000
+#end
+#list
+#float 10.766000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 0.000000
+#float -0.048000
+#end
+#list
+#float 13.588000
+#float 0.048000
+#end
+#end
+layer
+#list
+M2
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 10.390000
+#float 0.192000
+#end
+#list
+#float 10.422000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 5.762000
+#float 0.112000
+#end
+#list
+#float 6.106000
+#float 0.144000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 4.456000
+#float 0.320000
+#end
+#list
+#float 4.488000
+#float 0.640000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 1.876000
+#float 0.192000
+#end
+#list
+#float 1.908000
+#float 0.320000
+#end
+#end
+layer
+#list
+M3
+drawing
+#end
+#end
+#prop_list
+bbox
+#list
+#list
+#float 5.934000
+#float 0.176000
+#end
+#list
+#float 6.192000
+#float 0.208000
+#end
+#end
+layer
+#list
+M4
+drawing
+#end
+#end
+#end
+#list
+#end
+#list
+#prop_list
+bbox
+#list
+#list
+#float 0.000000
+#float 0.912000
+#end
+#list
+#float 13.588000
+#float 1.008000
+#end
+#end
+net_name
+VDD
+pin_name
+VDD
+layer
+#list
+M2
+pin
+#end
+label
+VDD
+#end
+#prop_list
+bbox
+#list
+#list
+#float 0.000000
+#float -0.048000
+#end
+#list
+#float 13.588000
+#float 0.048000
+#end
+#end
+net_name
+VSS
+pin_name
+VSS
+layer
+#list
+M2
+pin
+#end
+label
+VSS
+#end
+#prop_list
+bbox
+#list
+#list
+#float 13.400000
+#float 0.320000
+#end
+#list
+#float 13.432000
+#float 0.640000
+#end
+#end
+net_name
+O
+pin_name
+O
+layer
+#list
+M3
+pin
+#end
+label
+O
+#end
+#prop_list
+bbox
+#list
+#list
+#float 2.736000
+#float 0.320000
+#end
+#list
+#float 2.768000
+#float 0.640000
+#end
+#end
+net_name
+ST
+pin_name
+ST
+layer
+#list
+M3
+pin
+#end
+label
+ST
+#end
+#prop_list
+bbox
+#list
+#list
+#float 0.156000
+#float 0.320000
+#end
+#list
+#float 0.188000
+#float 0.640000
+#end
+#end
+net_name
+CLKB
+pin_name
+CLKB
+layer
+#list
+M3
+pin
+#end
+label
+CLKB
+#end
+#prop_list
+bbox
+#list
+#list
+#float 3.596000
+#float 0.320000
+#end
+#list
+#float 3.628000
+#float 0.640000
+#end
+#end
+net_name
+RST
+pin_name
+RST
+layer
+#list
+M3
+pin
+#end
+label
+RST
+#end
+#prop_list
+bbox
+#list
+#list
+#float 4.456000
+#float 0.320000
+#end
+#list
+#float 4.488000
+#float 0.640000
+#end
+#end
+net_name
+I
+pin_name
+I
+layer
+#list
+M3
+pin
+#end
+label
+I
+#end
+#end
+#end
+#end

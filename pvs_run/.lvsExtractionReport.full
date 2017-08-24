@@ -10,7 +10,7 @@ ERC Summary File         : sarafe_nsw.sum
 LVS Comparison Report    : sarafe_nsw.rep.cls
 Layout Name              : /tools/projects/jdhan/bag_work/BAG2_cds_ff_mpt/pvs_run/sarafe_nsw.gds ("sarafe_nsw")
 User Name                : jdhan
-Creation Time            : Wed Aug 23 22:27:42 2017
+Creation Time            : Thu Aug 24 09:10:26 2017
 Current directory        : /tools/projects/jdhan/bag_work/BAG2_cds_ff_mpt/pvs_run
 PVS Version              : 15.17-s604 Fri Jun 24 15:14:35 PDT 2016
 
@@ -23,32 +23,48 @@ PVS Version              : 15.17-s604 Fri Jun 24 15:14:35 PDT 2016
 
 
 
-Warnings and errors of connectivity for cell "nmos4_fast_tap"
--------------------------------------------------------------
+Warnings and errors of connectivity for cell "capdrv_nsw_2x"
+------------------------------------------------------------
 
-[WARN] Same label "VSS" for multiple nets, it is assigned to net 1 :
-    [1] Net 1 on layer 1022(M1_pin) at (0.258, 0.192)
-    [2] Net 3 on layer 1022(M1_pin) at (0.344, 0.192)
+[WARN] Same label "VSS" for multiple nets, it is assigned to net 9 :
+    [1] Net 9 on layer 1036(M2_pin) at (1.462, 0.000)
+    [2] Net 8 on layer 1036(M2_pin) at (1.462, 0.960)
+
+
+Warnings and errors of connectivity for cell "capdrv_nsw_4x"
+------------------------------------------------------------
+
+[WARN] Same label "VSS" for multiple nets, it is assigned to net 8 :
+    [1] Net 8 on layer 1036(M2_pin) at (1.118, 0.000)
+    [2] Net 7 on layer 1036(M2_pin) at (1.118, 0.960)
+
+
+Warnings and errors of connectivity for cell "capdrv_nsw_8x"
+------------------------------------------------------------
+
+[WARN] Same label "VSS" for multiple nets, it is assigned to net 8 :
+    [1] Net 8 on layer 1036(M2_pin) at (1.462, 0.000)
+    [2] Net 7 on layer 1036(M2_pin) at (1.462, 0.960)
 
 
 Warnings and errors of connectivity for cell "capdrv_nsw_array"
 ---------------------------------------------------------------
 
-[WARN] Same label "VSS" for multiple nets, it is assigned to net 4 :
-    [1] Net 4 on layer 1047(M3_pin) at (0.946, 2.880)
-    [2] Net 4 on layer 1047(M3_pin) at (9.546, 2.880)
-    [3] Net 4 on layer 1047(M3_pin) at (9.202, 2.880)
-    [4] Net 4 on layer 1047(M3_pin) at (8.858, 2.880)
-    [5] Net 4 on layer 1047(M3_pin) at (8.514, 2.880)
-    [6] Net 4 on layer 1047(M3_pin) at (9.374, 2.880)
-    [7] Net 4 on layer 1047(M3_pin) at (0.774, 2.880)
-    [8] Net 4 on layer 1047(M3_pin) at (9.030, 2.880)
-    [9] Net 4 on layer 1047(M3_pin) at (8.686, 2.880)
-    [10] Net 4 on layer 1047(M3_pin) at (8.342, 2.880)
-    [11] Net 5 on layer 1047(M3_pin) at (1.118, 2.880)
-    [12] Net 18 on layer 1047(M3_pin) at (1.290, 2.880)
-    [13] Net 19 on layer 1047(M3_pin) at (1.462, 2.880)
-    [14] Net 20 on layer 1047(M3_pin) at (1.634, 2.880)
+[WARN] Same label "VSS" for multiple nets, it is assigned to net 42 :
+    [1] Net 42 on layer 1047(M3_pin) at (8.342, 2.880)
+    [2] Net 42 on layer 1047(M3_pin) at (8.514, 2.880)
+    [3] Net 42 on layer 1047(M3_pin) at (8.686, 2.880)
+    [4] Net 42 on layer 1047(M3_pin) at (8.858, 2.880)
+    [5] Net 42 on layer 1047(M3_pin) at (9.030, 2.880)
+    [6] Net 42 on layer 1047(M3_pin) at (9.202, 2.880)
+    [7] Net 42 on layer 1047(M3_pin) at (9.374, 2.880)
+    [8] Net 42 on layer 1047(M3_pin) at (9.546, 2.880)
+    [9] Net 4 on layer 1047(M3_pin) at (0.774, 2.880)
+    [10] Net 5 on layer 1047(M3_pin) at (0.946, 2.880)
+    [11] Net 6 on layer 1047(M3_pin) at (1.118, 2.880)
+    [12] Net 7 on layer 1047(M3_pin) at (1.290, 2.880)
+    [13] Net 20 on layer 1047(M3_pin) at (1.462, 2.880)
+    [14] Net 21 on layer 1047(M3_pin) at (1.634, 2.880)
 
 
 Warnings and errors of connectivity for cell "salatch_pmos"
@@ -74,9 +90,6 @@ Clean cell list (added by extraction report parser )
  for cell "_pmos4_fast_space_base_nf1"
  for cell "_sd_base"
  for cell "capdac"
- for cell "capdrv_nsw_2x"
- for cell "capdrv_nsw_4x"
- for cell "capdrv_nsw_8x"
  for cell "momcap_center_1x"
  for cell "momcap_dmy_1x"
  for cell "nmos4_fast_boundary"
@@ -84,12 +97,8 @@ Clean cell list (added by extraction report parser )
  for cell "nmos4_fast_left"
  for cell "nmos4_fast_right"
  for cell "nmos4_fast_space"
- for cell "nmos4_fast_space_2x"
  for cell "nmos4_fast_space_nf2"
  for cell "nmos4_fast_space_nf4"
- for cell "nsw_wovdd_2x"
- for cell "nsw_wovdd_4x"
- for cell "nsw_wovdd_8x"
  for cell "ntap_fast_center_nf1"
  for cell "ntap_fast_left"
  for cell "ntap_fast_right"
@@ -110,11 +119,6 @@ Clean cell list (added by extraction report parser )
  for cell "ptap_fast_space"
  for cell "ptap_fast_space_nf2"
  for cell "ptap_fast_space_nf4"
- for cell "space_wovdd_1x"
- for cell "space_wovdd_2x"
- for cell "space_wovdd_4x"
- for cell "tap_wovdd"
- for cell "tie_wovdd_2x"
  for cell "via_M1_M2_0"
  for cell "via_M1_M2_1"
  for cell "via_M1_M2_2"
