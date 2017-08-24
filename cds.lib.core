@@ -16,8 +16,8 @@ DEFINE cds_ff_mpt_microtemplates_dense $BAG_WORK_DIR/cds_ff_mpt_microtemplates_d
 DEFINE logic_templates $BAG_WORK_DIR/laygo/generators/logic/logic_templates
 
 #adc libs
-DEFINE adc_sar_templates $BAG_WORK_DIR/laygo/generators/adc_sar/adc_sar_templates
-DEFINE clk_dis_templates $BAG_WORK_DIR/laygo/generators/adc_sar/clk_dis_templates
+DEFINE adc_sar_templates $BAG_WORK_DIR/adc_sar_templates
+DEFINE clk_dis_templates $BAG_WORK_DIR/clk_dis_templates
 DEFINE adc_sar_testbenches $BAG_WORK_DIR/laygo/generators/adc_sar/adc_sar_testbenches
 
 # BAG Eric Chang testbench libraries

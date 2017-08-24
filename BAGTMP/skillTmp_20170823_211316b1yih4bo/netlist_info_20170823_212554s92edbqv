@@ -1,0 +1,24 @@
+lib_name: cds_ff_mpt_microtemplates_dense
+cell_name: momcap_center_1x
+pins: [ "TOP", "BOTTOM" ]
+instances:
+  PIN1:
+    lib_name: basic
+    cell_name: iopin
+    instpins: {}
+  PIN0:
+    lib_name: basic
+    cell_name: iopin
+    instpins: {}
+  C0:
+    lib_name: analogLib
+    cell_name: pcapacitor
+    instpins:
+      MINUS:
+        direction: inputOutput
+        net_name: "BOTTOM"
+        num_bits: 1
+      PLUS:
+        direction: inputOutput
+        net_name: "TOP"
+        num_bits: 1
